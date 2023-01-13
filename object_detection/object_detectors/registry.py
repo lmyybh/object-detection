@@ -1,3 +1,3 @@
 from object_detection.utils import registry
 
-DETECTORS = registry.Registry()
+OBJECT_DETECTORS = registry.Registry()
